@@ -12,8 +12,8 @@ To run the code, you will need to use Eclipse as the IDE.
 
 You can control the right paddle by moving your mouse to hit the ball.
 
-The "New Serve" button produces a new serve. 
-The "Clear" button resets scores to 0-0. 
-The "Trace" button produces a trace of the ball's trajectory.
-The "+t -t" slider speeds up and slows down gameplay, and the "rtime" resets the speed to regular speed.
-The "-lag +lag" slider affects the opponents tracking speed, making the opponent easier or more difficult to beat. The "rlag" resets the lag back to the original difficulty.
+- The "New Serve" button produces a new serve. 
+- The "Clear" button resets scores to 0-0. 
+- The "Trace" button produces a trace of the ball's trajectory.
+- The "+t -t" slider speeds up and slows down gameplay, and the "rtime" resets the speed to regular speed.
+- The "-lag +lag" slider affects the opponents tracking speed, making the opponent easier or more difficult to beat. The "rlag" resets the lag back to the original difficulty.

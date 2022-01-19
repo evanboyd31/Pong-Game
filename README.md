@@ -1,5 +1,5 @@
 # Pong-Game
-An implementation of the game "Pong" using Java and ACM libraries
+An implementation of the game "Pong" using Java and ACM libraries. Created as a class project for ECSE 202 at McGill University.
 
 To run the code, you will need to use Eclipse as the IDE.
 

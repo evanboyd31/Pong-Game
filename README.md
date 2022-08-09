@@ -1,4 +1,6 @@
 # Pong-Game
+![pong-game-capture](https://user-images.githubusercontent.com/97850880/183544531-6d83e592-fdfa-4834-b147-4168b4f35044.png)
+
 An implementation of the game "Pong" using Java and ACM libraries. Created as a class project for ECSE 202 at McGill University.
 
 To run the code, you will need to use Eclipse as the IDE.
